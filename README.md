@@ -1,11 +1,19 @@
-I'm a creative developer with a passion for turning complex problems into simple, functional solutions. With expertise in full-stack web development (HTML, CSS, JavaScript, Node.js), Flutter for cross-platform apps, Flask for lightweight web applications, and Google Cloud, I focus on building scalable, high-quality web and mobile applications that deliver seamless user experiences.
+# Welcome to My GitHub Profile
 
-My work blends technical proficiency with a passion for creating intuitive and effective solutions, whether it’s a responsive website, mobile app, or backend service. I’m always eager to take on new challenges and expand my skill set.
+Hello! I'm **Albin Jojo**, a passionate and driven student with a focus on **Computer Science**, **AI**, and **Web Development**. I'm actively learning and applying my skills in **Full-Stack Development**, **Machine Learning**, and **UI/UX Design**. Here, you'll find a variety of projects that showcase my growth as a developer, from college assignments to personal and client projects.
 
-Tech Stack:
+## About Me
 
-Full-Stack Web Development (HTML, CSS, JavaScript, Node.js)
-Flutter (Mobile & Web Development)
-Flask (Backend Development)
-Google Cloud & Cloud Technologies
-Scalable, High-Performance Applications
+- **Current Focus**: Learning new programming languages, improving my algorithms and data structures skills, and building impactful projects.
+- **Tech Stack**:  
+  - Frontend: HTML, CSS, JavaScript, React  
+  - Backend: Node.js, Firebase  
+  - Database: Firebase, SQL  
+  - AI/ML: Python, TensorFlow  
+  - Tools: Git, GitHub, VS Code, Google Cloud
+  
+- **Key Interests**:  
+  - Artificial Intelligence and Machine Learning  
+  - Full Stack Web Development  
+  - UI/UX Design  
+  - Building impactful and user-friendly applications
