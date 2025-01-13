@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I'm **Albin Jojo**, a **Computer Science** student
 
 ## About Me
 
-## About Me
-
 - **Current Focus**: Learning new programming languages, improving my algorithms and data structures skills, and building impactful projects.
 - **Tech Stack**:  
   - Frontend: HTML, CSS, JavaScript, React  
