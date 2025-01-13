@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Welcome to my GitHub profile! I'm **Albin Jojo**, a **Computer Science** student, aspiring **AI Specialist**, and passionate **Web Developer**. I spend my time writing code, learning new tech, and building projects that solve real-world problems (or at least keep my browser tabs organized).
+Welcome to my GitHub profile! I'm **Albin Jojo**, a **Computer Application Integrated MCA** student, aspiring **AI Specialist**, and passionate **Web Developer**. I spend my time writing code, learning new tech, and building projects that solve real-world problems (or at least keep my browser tabs organized).
 
 ## About Me
 
