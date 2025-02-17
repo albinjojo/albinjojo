@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm **Albin Jojo**, a **Computer Application Integ
 
 - **Current Focus**: Learning new programming languages, improving my algorithms and data structures skills, and building impactful projects.
 - **Tech Stack**:  
-  - Frontend: HTML, CSS, JavaScript, React  
+  - Frontend: HTML, CSS, JavaScript, React, Flutter  
   - Backend: Node.js, Firebase  
   - Database: Firebase, SQL  
   - AI/ML: Python, TensorFlow  
