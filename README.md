@@ -7,4 +7,4 @@ in real environments, not just notebooks.
 
 ---
 
-[LinkedIn](https://linkedin.com/in/albin-jojo) · [Medium](https://medium.com/@jcyoalbin21) · jojoalbin21@gmail.com
+[LinkedIn](https://linkedin.com/in/albin-jojo) · [Medium](https://medium.com/@jojoalbin21) · [X](https://x.com/dictumfactum23) · jojoalbin21@gmail.com
